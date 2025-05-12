@@ -1,7 +1,7 @@
 .profile-pic {
     width: 100%;
     padding-top: 125%; 
-    background: #ddd url('4421a778-0ce1-4937-aa23-f6d76aa57f18.jpg') center/cover no-repeat;
+    background: #ddd url('../img/foto.jpg') center/cover no-repeat;
     border-radius: 0.5rem;
     position: relative;
   }
