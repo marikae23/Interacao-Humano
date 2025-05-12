@@ -1,0 +1,19 @@
+.profile-pic {
+    width: 100%;
+    padding-top: 125%; 
+    background: #ddd url('4421a778-0ce1-4937-aa23-f6d76aa57f18.jpg') center/cover no-repeat;
+    border-radius: 0.5rem;
+    position: relative;
+  }
+  
+  .section-title {
+    font-weight: 600;
+    border-bottom: 1px solid #333;
+    padding-bottom: 0.25rem;
+    margin-bottom: 1rem;
+  }
+  
+  section + section {
+    margin-top: 2rem;
+  }
+  
